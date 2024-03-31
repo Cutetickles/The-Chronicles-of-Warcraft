@@ -1,0 +1,68 @@
+body {
+    background-color: black;
+font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(255, 153, 0);
+    font-size: 30px;
+}
+
+h6 {
+    color: rgb(255, 153, 0);
+    text-align: center;
+    font-size: 10px;
+}
+
+.bilde {
+    width: 800px;
+    border-radius: 15%;
+    border-color: rgb(31, 170, 61); 
+    border-width: 3px;
+    border-style: solid;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+}
+
+p {
+    color: whitesmoke;
+    text-align: center;
+}
+
+
+.sitat {
+font-weight: bold;
+font-style: italic;
+font-size: 20px;
+}
+
+
+.TBC {
+    margin-top: 10px;
+font-weight: bold;
+font-style: italic;
+font-size: 20px;
+}
+
+.mist {
+    margin-top: 10px;
+font-weight: bold;
+font-style: italic;
+font-size: 20px;
+}
+
+.cata {
+    margin-top: 10px;
+    font-style: italic;
+    font-size: 20px;
+}
+
+.link {
+    font-size: 15px;
+    color: yellow;
+    font-style:italic;
+    text-decoration:underline
+}
